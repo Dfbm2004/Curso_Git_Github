@@ -1,15 +1,26 @@
 body {
-
     text-align: center;
     font-family: Arial;
+    color: darkslateblue;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 #container{
     width: 70%;
     Padding: 1em;
     text-align: left;
     border: 1px solid black;
+    margin: 0 auto;
 }
 #post{
     text-align: center;
     color: burlywood;
+}
+#cabecera{
+    background-color: rgb(8, 107, 194);
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
 }
