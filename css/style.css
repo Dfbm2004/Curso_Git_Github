@@ -23,8 +23,16 @@ body {
     display: flex;
     justify-content: center;
     text-align: center;
+    border: solid 3px black;
     background-color: rgb(8, 107, 194);
     font-size: 30px;
+    margin: 0 auto;
     font-weight: bold;
     font-size: 32px;
-    width: 100%;}
+    width: 75%;}
+
+#logo{
+    margin: 0;
+    padding: 0.2em;
+}
+
